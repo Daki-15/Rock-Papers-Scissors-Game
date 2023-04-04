@@ -18,8 +18,8 @@ gcc Main.c -o Main
 
 ## This is the interface the player will encounter while playing this game:
 
-![](1.PNG)
+![](Images/1.PNG)
 
 Example of a couple of rounds of the game:
 
-![](2.PNG)
+![](Images/2.PNG)
